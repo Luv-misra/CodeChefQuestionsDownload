@@ -1,5 +1,5 @@
 # CodeChefQuestionsDownload
-Downloads questions from codechef as separate pdf files and organizes them into seperate folders
+Downloads questions from codechef as separate pdf files and organizes them into separate folders
 Requires:
 ```
 BeautifulSoup: pip install beautifulsoup4
